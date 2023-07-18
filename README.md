@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hallo Bang</h1>
-<p align="center">Saya izin Membuat Website Portofolio</p>
+<p align="center">Saya izin Membuat Website Portofolio, meski belum sempurna hasilnya</p>
