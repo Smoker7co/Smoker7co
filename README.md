@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hallo Bang</h1>
+<p align="center">Saya izin Membuat Website Portofolio, meski belum sempurna hasilnya</p>

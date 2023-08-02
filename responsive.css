@@ -1,0 +1,58 @@
+@media (max-width: 366px) {
+    html {
+        /* font-size: 75%; */
+        font-size: 75%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}
+
+
+/* Tablet */
+
+@media (max-width: 870px) {
+    html {
+        /* font-size: 62.5%; */
+        font-size: 62.5%;
+    }
+    .project p {
+        font-size: 1.2rem;
+    }
+    .contact .row {
+        flex-wrap: wrap;
+    }
+    .contact .row .map {
+        height: 30rem;
+    }
+    .contact .row form {
+        padding-top: 0;
+    }
+}
+
+
+/* Mobile Phone */
+
+@media (max-width: 500px) {
+    html {
+        /* font-size: 55%; */
+        font-size: 55%;
+    }
+}
+
+
+/* Navbar */
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}
+
+
+/* Laptop */
