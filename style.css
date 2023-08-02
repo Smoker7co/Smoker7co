@@ -12,6 +12,7 @@ body {
     width: 100%;
     background-color: rgb(44, 26, 6);
     overflow: auto;
+    position: fixed;
 }
 
 .navbar a {
